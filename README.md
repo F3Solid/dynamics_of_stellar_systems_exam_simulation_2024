@@ -1,2 +1,5 @@
-# dynamics_of_stellar_systems_exam_simulation_2024
- Repository for the exam simulation of Dynamics of Stellar Systems
+# Dynamics of Stellar Systems 2024/2025 - Exam Simulation
+
+Repository for the exam simulation of Dynamics of Stellar Systems.
+
+Output files of the simulations are not included.
